@@ -1,16 +1,16 @@
 {
-  "name": "simple-oauth2",
-  "version": "1.0.3",
+  "name": "oauth2-wrapper",
+  "version": "1.0.0",
   "description": "Node.js client for OAuth2",
-  "author": "Andrea Reginato <andrea.reginato@gmail.com>",
+  "author": "Vo Tuan Phong <votuanphong@gmail.com>",
   "contributors": [
-    "Jonathan Samines <jn.samines@gmail.com>"
+    "Vo Tuan Phong  <votuanphong@gmail.com>"
   ],
-  "homepage": "https://github.com/lelylan/simple-oauth2",
+  "homepage": "https://github.com/votuanphong1983/oauth2-wrapper",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lelylan/simple-oauth2"
+    "url": "https://github.com/votuanphong1983/oauth2-wrapper"
   },
   "engine": {
     "node": ">=4.0"
